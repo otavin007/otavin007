@@ -1,35 +1,35 @@
-# Olá, eu sou o Otavio de Oliveira Burch 👋
+# Hi, I'm Otavio de Oliveira Burch 👋
 
-**Full Stack Developer na GranaTech** · Curitiba, PR
+**Full Stack Developer at GranaTech** · Curitiba, Brazil
 
-Desenvolvedor desde 2022, com foco em back-end e full stack: construo APIs, sistemas web e integrações escaláveis, do design ao deploy em produção.
+Developer since 2022, focused on back-end and full stack work: I build APIs, web systems and scalable integrations, from design to production deployment.
 
-Trabalho com integração de IA em sistemas de software (machine learning, agentes inteligentes e pipelines de RAG), usando OpenAI, Hugging Face, Gemini e Pinecone. Já fui CEO e desenvolvedor de uma startup de educação, o que me deu visão de produto e experiência com arquitetura e entrega de software.
+I work with AI integration in software systems (machine learning, intelligent agents and RAG pipelines), using OpenAI, Hugging Face, Gemini and Pinecone. I was also CEO and developer at an education startup, which gave me a product mindset and experience in software architecture and delivery.
 
 ## 🛠️ Stack
 
-**Linguagens:** TypeScript · JavaScript · Python · Java
+**Languages:** TypeScript · JavaScript · Python · Java
 **Back-end:** Node.js · NestJS · Django · FastAPI · Spring Boot
 **Front-end:** React · React Native · Angular
 **Cloud:** AWS · Azure
-**IA:** OpenAI · Hugging Face · Gemini · Pinecone · CrewAI · RAG · agentes
+**AI:** OpenAI · Hugging Face · Gemini · Pinecone · CrewAI · RAG · agents
 
-## 💼 Experiência
+## 💼 Experience
 
-| Empresa | Cargo | Período |
+| Company | Role | Period |
 |---|---|---|
-| GranaTech | Dev Full Stack | mar/2026 – atual |
-| Agrotis | Dev Back-end (Java, Spring Boot, microsserviços multi-tenant) | set/2025 – fev/2026 |
-| NextAge | Dev Full Stack · Trainee · Estagiário | out/2023 – set/2025 |
-| Lumens Education | CEO e desenvolvedor · Software Developer | jul/2022 – ago/2023 |
+| GranaTech | Full Stack Developer | Mar 2026 – present |
+| Agrotis | Back-end Developer (Java, Spring Boot, multi-tenant microservices) | Sep 2025 – Feb 2026 |
+| NextAge | Full Stack Developer · Trainee · Intern | Oct 2023 – Sep 2025 |
+| Lumens Education | CEO & Developer · Software Developer | Jul 2022 – Aug 2023 |
 
-## 🎓 Formação
+## 🎓 Education
 
-- **Gestão da Informação**, Universidade Federal do Paraná (UFPR), 2022 – 2026
-- **Técnico em Desenvolvimento de Sistemas**, ETEC, 2018 – 2021
+- **B.S. in Information Management**, Federal University of Paraná (UFPR), 2022 – 2026
+- **Technical Degree in Systems Development**, ETEC, 2018 – 2021
 
-**Certificações:** AWS Cloud Practitioner · Django 4 Avançado · Fundamentos de Data Science e IA · Fundamentos de Engenharia de Dados
+**Certifications:** AWS Cloud Practitioner · Advanced Django 4 · Data Science & AI Fundamentals · Data Engineering Fundamentals
 
-## 📫 Contato
+## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/otavio-de-oliveira-burch/)
