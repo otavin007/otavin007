@@ -1,6 +1,6 @@
 # Hi, I'm Otavio de Oliveira Burch 👋
 
-**Full Stack Developer at GranaTech** · Curitiba, Brazil
+**Full Stack Developer at GranaTech** · Curitiba, Brazil · 🌐 [otavin007.github.io](https://otavin007.github.io)
 
 Developer since 2022, focused on back-end and full stack work: I build APIs, web systems and scalable integrations, from design to production deployment.
 
@@ -32,4 +32,4 @@ I work with AI integration in software systems (machine learning, intelligent ag
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/otavio-de-oliveira-burch/)
+[Portfolio](https://otavin007.github.io) · [LinkedIn](https://www.linkedin.com/in/otavio-de-oliveira-burch/)
